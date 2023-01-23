@@ -3,5 +3,9 @@ p: a green background, white text, and a font size of 18px
 button: an orange background and a font size of 18px */
 
 div {
-    color: red;
+    color: white;
+    background-color: red;
+    font-size: 32;
+    text-align: center;
+    font-weight: bold;
 }
